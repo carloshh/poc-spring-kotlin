@@ -1,4 +1,4 @@
-package com.carloshh.reverseapp.api.dto
+package com.carloshh.example.reverseapp.api.dto
 
 import javax.validation.constraints.NotEmpty
 import javax.validation.constraints.Size

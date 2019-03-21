@@ -1,6 +1,6 @@
-package com.carloshh.reverseapp.service
+package com.carloshh.example.reverseapp.service
 
-import com.carloshh.reverseapp.domain.ReversedText
+import com.carloshh.example.reverseapp.domain.ReversedText
 
 interface ReverseService {
 
