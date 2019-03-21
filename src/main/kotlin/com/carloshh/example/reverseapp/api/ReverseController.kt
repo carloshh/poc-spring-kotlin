@@ -1,7 +1,7 @@
-package com.carloshh.reverseapp.api
+package com.carloshh.example.reverseapp.api
 
-import com.carloshh.reverseapp.api.dto.TextRequest
-import com.carloshh.reverseapp.service.ReverseService
+import com.carloshh.example.reverseapp.api.dto.TextRequest
+import com.carloshh.example.reverseapp.service.ReverseService
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody
